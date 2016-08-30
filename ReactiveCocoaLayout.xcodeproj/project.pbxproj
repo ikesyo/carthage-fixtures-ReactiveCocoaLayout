@@ -1252,6 +1252,7 @@
 					"-framework",
 					Archimedes,
 				);
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Profile;
@@ -1480,6 +1481,7 @@
 					"-framework",
 					Archimedes,
 				);
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1497,6 +1499,7 @@
 					"-framework",
 					Archimedes,
 				);
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -1949,6 +1952,7 @@
 					"-framework",
 					Archimedes,
 				);
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Test;
